@@ -72,7 +72,7 @@ const ProjectShowcase = () => {
         <div className="text-center mb-20">
           <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6">
             My{" "}
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 via-cyan-400 to-blue-400 animate-gradient">
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-700 via-white to-blue-400 ">
               Projects
             </span>
           </h2>
