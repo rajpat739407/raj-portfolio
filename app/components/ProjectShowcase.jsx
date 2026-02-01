@@ -19,7 +19,6 @@ const ProjectShowcase = () => {
 
     window.open(url, "_blank", "noopener,noreferrer");
   };
-
   const projects = [
     {
       title: "Movie Recommendation System",
